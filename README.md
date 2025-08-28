@@ -8,10 +8,10 @@ Website chỉ dẫn cách sử dụng của một ứng dụng quản lý
 - CSS
 
 ## 🚀 Demo
-Xem online tại:
+Xem online tại: https://tankiet2006.github.io/TrangTroGiup/
 
 ## 📸 Giao diện
-![demo](screenshot.png)
+![demo](trangtrogiupgit.png)
 
 ## 🙋 Tác giả
 - [Trần Tấn Kiệt](https://github.com/tankiet2006)
